@@ -443,6 +443,26 @@
           }
         },
         {
+          "id": "traben.entity_model_features:entity_model_features:2.4.1@jar",
+          "name": "Entity Model Features",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 445642,
+            "url": "https://github.com/mchdistro/Memory/raw/main/servers/Memory-1.20.1/forgemods/required/entity_model_features_forge_1.20.1-2.4.1.jar",
+            "MD5": "d801a1f8c9425012b82619bcdec06666"
+          }
+        },
+        {
+          "id": "traben.entity_texture_features:entity_texture_features:6.2.9@jar",
+          "name": "Entity Texture Features",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 676887,
+            "url": "https://github.com/mchdistro/Memory/raw/main/servers/Memory-1.20.1/forgemods/required/entity_texture_features_forge_1.20.1-6.2.9.jar",
+            "MD5": "5364007c2f40cd1bfaf5037d7355ba31"
+          }
+        },
+        {
           "id": "com.hyfata.najoan.koreanpatch.client:koreanpatch:1.8.6+mc1.20.1@jar",
           "name": "Korean Patch",
           "type": "ForgeMod",
@@ -477,7 +497,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 3538,
+            "size": 3621,
             "url": "https://github.com/mchdistro/Memory/raw/main/servers/Memory-1.20.1/files/options.txt",
             "path": "options.txt"
           }
@@ -494,14 +514,14 @@
           }
         },
         {
-          "id": "FreshAnimations_v1.9.3.zip",
-          "name": "FreshAnimations_v1.9.3.zip",
+          "id": "FreshAnimations_v1.9.2.zip",
+          "name": "FreshAnimations_v1.9.2.zip",
           "type": "File",
           "artifact": {
-            "size": 564130,
-            "url": "https://github.com/mchdistro/Memory/raw/main/servers/Memory-1.20.1/files/resourcepacks/FreshAnimations_v1.9.3.zip",
-            "MD5": "fb46d01cf2235af40e13cc340bfb7bee",
-            "path": "resourcepacks/FreshAnimations_v1.9.3.zip"
+            "size": 516256,
+            "url": "https://github.com/mchdistro/Memory/raw/main/servers/Memory-1.20.1/files/resourcepacks/FreshAnimations_v1.9.2.zip",
+            "MD5": "ebdaffde1a25273994c74b5d9ec21e1f",
+            "path": "resourcepacks/FreshAnimations_v1.9.2.zip"
           }
         },
         {
