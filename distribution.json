@@ -529,9 +529,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 27791,
+            "size": 13998,
             "url": "https://github.com/mchdistro/Memory/raw/main/servers/Memory-1.20.1/files/servers.dat",
-            "MD5": "618df3e7bf5338dd318637e14c4b9fd7",
+            "MD5": "e3943b28513fd98ceb395a00b79ae6ff",
             "path": "servers.dat"
           }
         },
